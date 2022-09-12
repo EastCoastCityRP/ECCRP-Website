@@ -13,21 +13,18 @@ I decided to build this website which is a simple site that even basic coders ca
 
 Do you have a suggestion? Let me know! 
 
-- `Official Discord Server <https://discord.gg/G6BwprQFWa>`_
+- `Official Discord Server <https://discord.gg/eccrp>`_
 
-- `Community Discord Server <https://discord.gg/8hT3yHXB38>`_ 
+- `Community Discord Server <https://discord.gg/eccrp>`_ 
 
 Email: eastcoastcityrp21@gmail.com
 
 Changelog:
 -------------
-09/08/2022
+Updated Index 12/09/22 - 12:01
 
 - + Updated all pages with being able to access CSS while using .htaccess (FriendlyURL's)
 - + Added Partners Page (Early Work)
-
-30/07/2022:
-
 - + Added Gallery Page.
 - + Commented Code.
 - + Made Main Home Page With Basic Details On, As Well As Server IP & Port Access.
