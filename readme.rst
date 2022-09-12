@@ -1,8 +1,8 @@
-Version: Build 0.2.3, 09/08/2022 19:46
+Version: Build 4.3.1,
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
-   :target: https://discord.gg/G6BwprQFWa
+   :target: https://discord.gg/eccrp
    :alt: Discord server invite
    
 About Project:
@@ -17,10 +17,7 @@ Do you have a suggestion? Let me know!
 
 - `Community Discord Server <https://discord.gg/8hT3yHXB38>`_ 
 
-Email: CharleyJ@hamsternetwork.com
-
-
-Demo Link: https://stateofcaliforniarpc.com/
+Email: eastcoastcityrp21@gmail.com
 
 Changelog:
 -------------
@@ -28,7 +25,6 @@ Changelog:
 
 - + Updated all pages with being able to access CSS while using .htaccess (FriendlyURL's)
 - + Added Partners Page (Early Work)
-- + Added Demo Link
 
 30/07/2022:
 
@@ -54,46 +50,7 @@ Requirements:
 Photos:
 --------
 
-Main Page:
---------
-
-.. image:: https://github.com/Coldalliance/FiveM-Website-Template/blob/master/backend/img/GitHubImages/CharleyJ-FiveM-Template-Site-1.png
-    :height: 280px
-    :width:  456px
-
-Bottom Main Page:
---------
-
-.. image:: https://github.com/Coldalliance/FiveM-Website-Template/blob/master/backend/img/GitHubImages/CharleyJ-FiveM-Template-Site-2.png
-    :height: 280px
-    :width:  456px
-    
-Staff Page:
---------
-
-.. image:: https://github.com/Coldalliance/FiveM-Website-Template/blob/master/backend/img/GitHubImages/CharleyJ-FiveM-Template-Site-3.png
-    :height: 280px
-    :width:  456px
-    
-Gallery Page:
---------
-
-.. image:: https://github.com/Coldalliance/FiveM-Website-Template/blob/master/backend/img/GitHubImages/CharleyJ-FiveM-Template-Site-4.png
-    :height: 280px
-    :width:  456px
-  
-  
-Links:
-------
-
-- `Documentation (COMING SOON) <https://hamsternetwork.com>`_ 
-- `Official Discord Server <https://discord.gg/G6BwprQFWa>`_
-
 Future Plans:
-------
+-------------
 
-- + Backend Panel I.E Admin Panel For Images, Latest News, Much More! (Started)
-- + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php) ✅
-- + Partnership Page (Started)
-- + Contact Us Page
-- + Basic Applications Page
+Create A Custom Page With All Photos
