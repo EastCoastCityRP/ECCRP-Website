@@ -6,10 +6,10 @@
 	<title>East Coast City RP - Home</title> <!-- < set your community's name here -->
 	<link rel="stylesheet" href="/backend/css/main.css"> <!-- do not touch this, unless you know what u are doing.. -->
 	<script src="https://kit.fontawesome.com/af48d48999.js" crossorigin="anonymous"></script>
-    <meta property="og:title" content="State Of California RPC"> <!-- meta if u send links on discord etc includes this -->
+    <meta property="og:title" content="ECCRP Discord">https://discord.gg/eccrp<!-- meta if u send links on discord etc includes this -->
     <meta property="og:description" content="Go patrol or get fired.."> <!-- meta if u send links on discord etc includes this -->
     <meta property="og:image" content="/backend/img/setting.php"> <!-- meta if u send links on discord etc includes this -->
-    <meta property="og:url" content=""> <!-- meta if u send links on discord etc includes this -->
+    <meta property="og:url" content="">https://github.com/EastCoastCityRP<!-- meta if u send links on discord etc includes this -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script>
 		function copyToClipboard(element) {
@@ -26,7 +26,7 @@
 		<div class="wrapper">
 			<nav>
 				<!-- <img src="logo" alt="header_logo"> --> <!-- set your community logo here make sure to hide the community name if you do change=! --> 
-				<h2>State Of <span>California</span></h2> <!-- set your community name here --> 
+				<h2>Prime Mods<span>Prime Dev's</span>ECCRP | </h2>East Coast City RP<!-- set your community name here --> 
 				<div class="right">
 					<a href="#"> <button class="custom-button custom-button-primary">Forum</button></a>  <!-- change the discord link to your discord's server link -->
 					<a href="https://www.discord.gg/XTvjfhQzDz"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
@@ -88,33 +88,33 @@
 			--> 
 
 			<div class="section-extra">
-				<h2>Read the latest news.</h2>
+				<h2>To Read the latest news Join Discord Below.</h2>
 				<div class="section-extra-flex">
-					<div class="img1"> <!-- community image 1 change image check css -->
-						<h3>Title</h3>
+					<div class="img1">MyLogo.png<!-- community image 1 change image check css -->
+						<h3>Discord</h3>
 						<p>So here is an text-place-holder.. please make sure to provide content here? <p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+						<a href="#">Link</a>https://discord.gg/eccrp<!-- forum post link or discord whatever -->
 					</div>
 
 
-					<div class="img2"> <!-- community image 2 change image check css -->
-						<h3>Title</h3>
+					<div class="img2MyLogo.png<!-- community image 2 change image check css -->
+						<h3>Github</h3>
 						<p>So here is an text-place-holder.. please make sure to provide content here?<p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+						<a href="#">Link</a>https://github.com/EastCoastCityRP<!-- forum post link or discord whatever -->
 					</div>
 
 
-					<div class="img3"> <!-- community image 3 change image check css -->
-						<h3>Title</h3>
+					<div class="img3MyLogo.png<!-- community image 3 change image check css -->
+						<h3>Youtube</h3>
 						<p>So here is an text-place-holder.. please make sure to provide content here? <p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+						<a href="#">Link</a>https://www.youtube.com/channel/UCZY1tZMUn76J8Ie-FmGm7VA<!-- forum post link or discord whatever -->
 					</div>
 
 
-					<div class="img4"> <!-- community image 4 change image check css -->
-						<h3>Title</h3>
+					<div class="img4">MyLogo.png<!-- community image 4 change image check css -->
+						<h3>TikTok</h3>
 						<p>So here is an text-place-holder.. please make sure to provide content here?<p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+						<a href="#">Link</a>Comming Soon Join Discord For Updates<!-- forum post link or discord whatever -->
 					</div>
 					
 
@@ -126,31 +126,31 @@
 			<div class="section-extra">
 				<br> </br>
 				<div class="section-extra-flex">
-					<div class="img1"> <!-- community image 1 change image check css -->
-						<h3>Title</h3>
-						<p>So here is an text-place-holder.. please make sure to provide content here? <p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+					<div class="img1">MyLogo.png<!-- community image 1 change image check css -->
+						<h3>TikTok</h3>
+						<p>TikTok<p>
+						<a href="#">link</a>Comming Soon Updates Here https://discord.gg/eccrp<!-- forum post link or discord whatever -->
 					</div>
 
 
-					<div class="img2"> <!-- community image 2 change image check css -->
-						<h3>Title</h3>
-						<p>So here is an text-place-holder.. please make sure to provide content here?<p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+					<div class="img2">MyLogo.png<!-- community image 2 change image check css -->
+						<h3>Youtube</h3>
+						<p>Please Go Look At Our Youtube Page<p>
+						<a href="#">Link</a>https://www.youtube.com/channel/UCZY1tZMUn76J8Ie-FmGm7VA<!-- forum post link or discord whatever -->
 					</div>
 
 
-					<div class="img3"> <!-- community image 3 change image check css -->
-						<h3>Title</h3>
-						<p>So here is an text-place-holder.. please make sure to provide content here? <p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+					<div class="img3">MyLogo.png<!-- community image 3 change image check css -->
+						<h3>github</h3>
+						<p>Please Go Look At Our Github Page<p>
+						<a href="#">Link</a>https://github.com/EastCoastCityRP<!-- forum post link or discord whatever -->
 					</div>
 
 
-					<div class="img4"> <!-- community image 4 change image check css -->
-						<h3>Title</h3>
-						<p>So here is an text-place-holder.. please make sure to provide content here?<p>
-						<a href="#">Link</a> <!-- forum post link or discord whatever -->
+					<div class="img4">MyLogo.png<!-- community image 4 change image check css -->
+						<h3>Join The Discord</h3>
+						<p>Join The Discord And Do /Apply Whitelist<p>
+						<a href="#">Link</a>https://discord.gg/eccrp<!-- forum post link or discord whatever -->
 					</div>
 					
 
@@ -165,7 +165,7 @@
 
     <footer>
 		<div class="wrapper">
-			<p><h2>  State Of California </h2><br><h3>© 2022 Charley J</h3></p>
+			<p><h2>  ECCRP | East Coast City RP </h2><br><h3>© 2022 ECCRP Founder's Team / Dev Team</h3></p>
 		</div>
 	</footer>
 
