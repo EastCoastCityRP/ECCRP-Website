@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>State Of California : RPC - Home</title> <!-- < set your community's name here -->
+	<title>East Coast City RP - Home</title> <!-- < set your community's name here -->
 	<link rel="stylesheet" href="/backend/css/main.css"> <!-- do not touch this, unless you know what u are doing.. -->
 	<script src="https://kit.fontawesome.com/af48d48999.js" crossorigin="anonymous"></script>
     <meta property="og:title" content="State Of California RPC"> <!-- meta if u send links on discord etc includes this -->
@@ -44,7 +44,7 @@
 			<div class="section-promo">
 				<div class="promo-background">
 				
-					<h1>Serve & Protect the Citizens of State of California.</h1> <!-- set here title of the promo header -->
+					<h1>Join https://discord.gg/eccrp.</h1> <!-- set here title of the promo header -->
 				</div>
 			</div>
 			<div class="section-tutorial">
@@ -53,22 +53,22 @@
 					<div class="section-tutorial-container">
 						<div class="rtr">
 							<h3><i class="fas fa-book"></i>Read the Rules</h3>
-							<p>Server Rules Baisc Set Here!.</p> <!-- set here requested stuff you can do alot of things here visit w3schools -->
+							<p>Why We Are Here In FiveM.</p> <!-- set here requested stuff you can do alot of things here visit w3schools -->
 						</div>
 						<div class="jts">
-							<h3><i class="fas fa-sign-in-alt"></i>Join the Server</h3>
-							<h4><span class="lnumbers1">1.</span> Open FiveM</h4>
-							<h4><span class="lnumbers">2.</span> Click & Paste <button id="serverip" onclick="copyToClipboard('#serverip')">example.com:port</button></h4> <!-- set server ip here -->
+							<h3><i class="fas fa-sign-in-alt">discord.gg/eccrp</i>Join the Server</h3>
+							<h4><span class="lnumbers1">https://FiveM.net/.</span> Open FiveM</h4>
+							<h4><span class="lnumbers">193.23.127.233:30123.</span> Click & Paste <button id="serverip" onclick="copyToClipboard('#serverip')">example.com:port</button></h4> <!-- set server ip here -->
 							<h4><span class="lnumbers">3.</span> Connect to the Server</h4>
 						</div>
 						<div class="dsc">
 							<h3><i class="fab fa-discord"></i>Join our Discord</h3>
 							<p>Chat with fellow members and be part of the community, and receive the latest information & updates by joining our discord server!</p>
-							<a href="https://www.discord.gg/XTvjfhQzDz"><i class="fab fa-discord"></i>State Of California RPC</a>
+							<a href="https://www.discord.gg/eccrp"><i class="fab fa-discord"></i>East Coast City RP</a>
 						</div>
 						<div class="pab">
 							<h3><i class="fas fa-helicopter"></i>Patrol a beat</h3>
-							<p>Come Patrol With Us And Serve The Citizens Of California!</p> <!-- add some info about patrolling on your server -->
+							<p>Please Come And Be Whitelisted In Our Server</p>join https://discord.gg/eccrp<!-- add some info about patrolling on your server -->
 						</div>
 					</div>
 				</div>
