@@ -25,16 +25,12 @@
 	<header>
 		<div class="wrapper">
 			<nav>
-				<!-- <img src="logo" alt="header_logo"> --> <!-- set your community logo here make sure to hide the community name if you do change=! --> 
+				<!-- <img src="logo" alt="header_logo"> -->MyLogo.png<!-- set your community logo here make sure to hide the community name if you do change=! --> 
 				<h2>Prime Mods<span>Prime Dev's</span>ECCRP | </h2>East Coast City RP<!-- set your community name here --> 
 				<div class="right">
-					<a href="#"> <button class="custom-button custom-button-primary">Forum</button></a>  <!-- change the discord link to your discord's server link -->
+					<a href="#"> <button class="custom-button custom-button-primary">Forum</button></a>https://discord.gg/eccrp <!-- change the discord link to your discord's server link -->
 					<a href="https://www.discord.gg/XTvjfhQzDz"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
-					<a href="/team.php"><button class="custom-button custom-button-primary">Staff Team</button></a> <!-- The Staff Team Page! -->
-					<a href="/gallery.php"><button class="custom-button custom-button-primary">Our Photos</button></a> <!-- to be added to next update -->
-					<a href="/partners.php"><button class="custom-button custom-button-primary">Our Partners</button></a> <!-- The Partner Page! -->
-					<a href="https://github.com/Coldalliance/FiveM-Website-Template"> <button class="custom-button custom-button-info">Made By Charley J</button></a> <!-- Made By Charley J, Please Keep Credits! -->
-
+					<a href="/team.php"><button class="custom-button custom-button-primary">Staff Team</button></a>team.php<!-- The Staff Team Page! -->
 				</div>
 			</nav>
 		</div>
@@ -44,7 +40,7 @@
 			<div class="section-promo">
 				<div class="promo-background">
 				
-					<h1>Join https://discord.gg/eccrp.</h1> <!-- set here title of the promo header -->
+					<h1>Join</h1>Discord Links<!-- set here title of the promo header -->
 				</div>
 			</div>
 			<div class="section-tutorial">
